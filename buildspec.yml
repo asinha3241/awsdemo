@@ -13,8 +13,7 @@ phases:
     commands:
         # run build script
         - npm run-script build
-
-# this is the place for SAST Script
+t
     
 artifacts:
   # include all files required to run application
