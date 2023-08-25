@@ -8,5 +8,5 @@ rm -rf node_modules
 rm -rf build
 
 #Install_node_modules_&_Make_React_Build
-npm  install
+npm  install --save-dev @babel/plugin-proposal-private-property-in-object
 npm run build
