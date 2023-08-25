@@ -5,5 +5,4 @@ phases:
     commands:
         # run build script
         echo "for build stage"
-# for SAST
   
